@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mProfile"
+        android:title="Hồ sơ"
+        android:icon="@drawable/user"/>
+    <item android:id="@+id/mStudy"
+        android:title="Học tập"
+        android:icon="@drawable/student"/>
+    <item android:id="@+id/mWork"
+        android:title="Công tác"
+        android:icon="@drawable/work"/>
+    <item android:id="@+id/mAchive"
+        android:title="Thành tích"
+        android:icon="@drawable/achive"/>
+</menu>
