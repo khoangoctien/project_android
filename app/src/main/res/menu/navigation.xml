@@ -12,4 +12,7 @@
     <item android:id="@+id/mAchive"
         android:title="Thành tích"
         android:icon="@drawable/achive"/>
+    <item android:id="@+id/mAchiv1"
+        android:title="Thành tích1"
+        android:icon="@drawable/achive"/>
 </menu>
